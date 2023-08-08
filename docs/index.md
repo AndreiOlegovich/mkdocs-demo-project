@@ -18,4 +18,4 @@ For full documentation visit [urn.su](https://www.urn.su/code/python/mkdocs/).
 
 ## Contacts
 
-Telegram [aofeed](https://t.me/aofeed)
+Telegram [aofeed](https://t.me/aofeed).
