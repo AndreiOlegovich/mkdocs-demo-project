@@ -1,0 +1,9 @@
+site_name: URN.su
+site_url: https://urn.su
+theme:
+  name: material
+  favicon: assets/img/favicon.ico
+  palette:
+    primary: teal
+    accent: orange
+  
